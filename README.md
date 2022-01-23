@@ -18,12 +18,10 @@ Using customer demographic, historic payments and statements balance data, class
 </ol>
   
 
-###  Key understandings:
+###  Final model:
 <hr>
 
-<img src="/Files/Approach.png" width="720" height="480" />
-
-Please find the final presentation here : <a href = "/Files/Final_presentation.pptx"> PPT </a>
+<img src="/Files/final model.png" width="720" height="480" />
 
 ### Final Recommendations: 
 <hr>
@@ -34,7 +32,7 @@ Please find the final presentation here : <a href = "/Files/Final_presentation.p
   <li> Having a page count around 450 and not exceeding 500 is optimal for maximizing demand </li> 
 </ol>
 
-Final presentation : <a href = "/Files/Final_presentation.pptx"> PPT </a>
+Final presentation : <a href = "/Files/Credit Default Prediction DM Project.pdf"> PPT </a>
 
 
 
