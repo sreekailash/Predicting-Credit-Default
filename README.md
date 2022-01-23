@@ -23,14 +23,6 @@ Using customer demographic, historic payments and statements balance data, class
 
 <img src="/Files/final model.png" width="720" height="480" />
 
-### Final Recommendations: 
-<hr>
-
-<ol>
-  <li> Romance novels tend to perform better so the current publishing trend of Harper Collins with focus on Romance under Fiction </li>
-  <li> Choose science fiction novels over mystery as they lead to significantly higher demand </li>
-  <li> Having a page count around 450 and not exceeding 500 is optimal for maximizing demand </li> 
-</ol>
 
 Final presentation : <a href = "/Files/Credit Default Prediction DM Project.pdf"> PPT </a>
 
