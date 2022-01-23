@@ -16,7 +16,11 @@ Using customer demographic, historic payments and statements balance data, class
   <li> Model Comparison </li>
   <li> Scoring </li>
 </ol>
-  
+
+### SAS Enterprise Miner Diagram:
+<hr>
+ 
+<img src="/Files/model diagram.png" width="720" height="480" />
 
 ###  Final model:
 <hr>
